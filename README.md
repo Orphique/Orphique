@@ -1,7 +1,7 @@
 <div align="center">
 
-<svg width="850" height="720" viewBox="0 0 850 720" xmlns="http://www.w3.org/2000/svg">
-  <style>
+<svg width="850" height="720" viewBox="0 0 850 720" xmlns="http://www.w3.org/2000/svg"
+<style>
     @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Orbitron:wght@700&amp;display=swap');
 
     .bg { fill: #070913; }
